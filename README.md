@@ -6,7 +6,7 @@ A Tableau workbook for monitoring and analysing loan underwriting operations acr
 
 ## 🗂️ Dashboards
 
-![Dashboard Preview](Screenshot%2026-05-06%193549.png)
+![Dashboard Preview](Screenshot%2026-05-06%194954.png)
 
 ### 🔍 Overview
 High-level summary of the entire underwriting pipeline. At a glance, you can see:
